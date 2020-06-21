@@ -3,9 +3,13 @@ A small and simple script to convert a set of images to a pdf file
 
 # Examples
 You can find the attached python script `img2pdf.py`
+
 Let's say you have a bunch of images in `/home/user/Pictures/lecture-slides/` and you want to generate a pdf out of these files say `/home/user/Documents/lecture-slides/slides.pdf` then you can run the script as follows:
+
 `python3 img2pdf.py /home/user/Pictures/lecture-slides/ /home/user/Documents/lecture-slides/slides.pdf` or
+
 `./img2pdf.py /home/user/Pictures/lecture-slides/ /home/user/Documents/lecture-slides/slides.pdf`
+
 Make sure to give execution permission to script. You can do this using the command `sudo chmod +x img2pdf.py`
 
 # Advanced Options
