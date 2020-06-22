@@ -10,7 +10,7 @@ Let's say you have a bunch of images in `/home/user/Pictures/lecture-slides/` an
 
 # Dependencies
 The script depends on the following packages/modules: "fpdf, PIL, os, sys, glob, threading"  
-All the modules are self-bundled with python3 except fpdf which you can install as follows:
+All the modules are self-bundled with python3 except fpdf which you can install as follows:  
 ```sudo apt install python3-pip```
 ```pip3 install fpdf```
 
