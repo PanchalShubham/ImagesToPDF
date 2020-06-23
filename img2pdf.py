@@ -121,7 +121,7 @@ def process_directory(image_directory, output_path):
 
 
 	# give a simple message to user
-	print("Collecting files image files in {}".format(image_directory))
+	print("Collecting image files in {}".format(image_directory))
 	try:
 		# add extensions here
 		extensions = ('*.jpg','*.png','*.gif')
